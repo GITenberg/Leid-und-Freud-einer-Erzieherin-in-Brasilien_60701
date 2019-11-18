@@ -1,11 +1,16 @@
 _repo: Leid-und-Freud-einer-Erzieherin-in-Brasilien_60701
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60701-h/images/cover.jpg
 creator:
   author:
     agent_name: Binzer, Ina von
     gutenberg_agent_id: '51087'
     url: http://www.gutenberg.org/2009/agents/51087
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60701#Leid-und-Freud-einer-Erzieherin-in-Brasilien
 gutenberg_issued: '2019-11-16'
 gutenberg_type: Text
 identifiers:
